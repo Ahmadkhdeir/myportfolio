@@ -14,7 +14,7 @@
     content: '';
     position: absolute;
     width: 6px;
-    background-color: rgb(103, 103, 103);
+    background-color: rgb(106, 177, 133);
     top: 0;
     bottom: 0;
     left: 50%;
@@ -89,7 +89,7 @@
   /* The actual content */
   .content {
     padding: 20px 30px;
-    background-color: rgb(103, 103, 103);
+    background-color: rgb(143, 219, 153);
     position: relative;
     border-radius: 6px;
     color: white;
