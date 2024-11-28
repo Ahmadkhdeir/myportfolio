@@ -19,7 +19,7 @@ for (let i=0; i < PROJECTS.length; i++) {
     source.value = "./images/" + currentProject.img;
     image.setAttributeNode(source);
     var imgStyle = document.createAttribute("style");
-    imgStyle.value = "width: 180px; height: 100px;";
+    imgStyle.value = "width: 240px; height: 240px;";
     image.setAttributeNode(imgStyle);
 
     // p
