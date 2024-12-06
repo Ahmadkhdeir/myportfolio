@@ -7,7 +7,6 @@ This repository contains the source code for my personal portfolio website. The 
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
 
 ## Overview
 
@@ -28,14 +27,4 @@ The portfolio is designed to highlight my software skills, academic journey, and
 - **CSS**: For styling, animations, and responsive design.
 - **JavaScript**: For dynamic project handling and interactivity.
 
-## File Structure
 
-├── index.html           # Main page with introduction and skills
-├── projects.html        # Projects page
-├── css/
-│   ├── style.css        # Global styling
-│   ├── timeline.css     # Styling for the timeline
-├── scripts/
-│   ├── projects.js      # Project data
-│   ├── projects-handler.js # Logic to handle projects
-├── images/              # Profile picture and icons
