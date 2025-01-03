@@ -104,13 +104,13 @@ body{
     animation: javascript 2s;
 }
 
-.python{
-    width: 50%;
-    animation: python 2s;
+.html{
+    width: 60%;
+    animation: html 2s;
 }
 
 .java{
-    width: 60%;
+    width: 50%;
     animation: java 2s;
 }
 
@@ -125,7 +125,7 @@ body{
 }
 
 .cypress{
-    width: 45%;
+    width: 60%;
     animation: cypress 2s;
 }
 
@@ -138,12 +138,12 @@ body{
     }
 }
 
-@keyframes python {
+@keyframes html {
     0%{
         width: 0%;
     }
     100%{
-        width: 50%;
+        width: 60%;
     }
 }
 
@@ -152,7 +152,7 @@ body{
         width: 0%;
     }
     100%{
-        width: 60%;
+        width: 50%;
     }
 }
 
@@ -179,7 +179,7 @@ body{
         width: 0%;
     }
     100%{
-        width: 45%;
+        width: 60%;
     }
 }
 .footer{

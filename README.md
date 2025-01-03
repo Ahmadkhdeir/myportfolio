@@ -2,6 +2,8 @@
 
 This repository contains the source code for my personal portfolio website. The website showcases skills, journey, and projects.
 
+**[Visit My Portfolio](https://ahmadkhdeir.github.io/myportfolio/)**
+
 ## Table of Contents
 
 - [Overview](#overview)
