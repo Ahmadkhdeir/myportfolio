@@ -37,6 +37,7 @@ body{
 .title-menu{
     font-size: 40px; 
     display: inline;
+    margin-left: -400px;
 }
 
 .column{
