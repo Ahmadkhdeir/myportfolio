@@ -1,8 +1,13 @@
 # Portfolio
 
 This repository contains the source code for my personal portfolio website. The website showcases skills, journey, and projects.
+<p align="center">
+  <img src="./images/download.gif" alt="Portfolio">
+</p>
 
-**[Visit My Portfolio](https://ahmadkhdeir.github.io/myportfolio/)**
+<p align="center">
+  <a href="https://ahmadkhdeir.github.io/myportfolio/"><strong>Visit My Portfolio</strong></a>
+</p>
 
 ## Table of Contents
 
@@ -28,5 +33,3 @@ The portfolio is designed to highlight my software skills, academic journey, and
 - **HTML**: For website structure.
 - **CSS**: For styling, animations, and responsive design.
 - **JavaScript**: For dynamic project handling and interactivity.
-
-
